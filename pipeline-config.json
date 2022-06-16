@@ -10,7 +10,7 @@
       "framework":"angular",
       "devBuild":"",
       "prodBuild":"",
-      "runTests":false,
+      "runTests":true,
       "pushBinary":false,
       "binaryRepository":""
    },
